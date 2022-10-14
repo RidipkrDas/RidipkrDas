@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridip Kumar Das</h1>
 <h3 align="center">I am a Student</h3>
-<img align="right" alt="Coding" width="600" src="https://media4.giphy.com/media/YWB6Hi29vA3jG/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/YWB6Hi29vA3jG/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
